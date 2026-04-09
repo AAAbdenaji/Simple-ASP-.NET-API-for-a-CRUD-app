@@ -6,6 +6,7 @@ This Project is still incomplete.
 # what this project includes:
 
  - basic crud functionality for all models (except rentals)
+ - basic Image Handling
  - authentication & roles using JWT
 
 
