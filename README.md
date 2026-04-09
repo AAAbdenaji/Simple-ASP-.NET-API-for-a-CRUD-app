@@ -7,7 +7,8 @@ This Project is still incomplete.
 
  - basic crud functionality for all models (except rentals)
  - basic Image Handling
- - authentication & roles using JWT
+ - Users and roles using IdentityUser
+ - authentication using JWT
 
 
 # To Do list:
